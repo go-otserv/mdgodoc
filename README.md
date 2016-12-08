@@ -29,4 +29,4 @@ Option | Description
 ```bash
 $ go get go-otserv.org/mdgodoc
 ```
-Then you can import it in your code. See [main.go](/main,go) and [documentation](/godoc.md) for usage info.
+Then you can import it in your code. See [main.go](/main.go) and [documentation](/godoc.md) for usage info.
